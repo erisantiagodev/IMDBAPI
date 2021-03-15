@@ -16,7 +16,7 @@ If the movie has multiple parts, like Spider-Man 1, 2, 3, the API will return th
 
 * Internet connection
 
-* Visual Studios 2012 v 11.0
+* Visual Studio 2012 v 11.0
 
 * IMDB API Key
 
