@@ -61,7 +61,7 @@ namespace MovieAPI
 
             catch
             {
-                //moviePlot.Text = null;
+                moviePlot.Text = null;
             }
         }
     }
